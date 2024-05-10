@@ -1,4 +1,3 @@
-
 import time
 import concurrent.futures
 from selenium import webdriver
